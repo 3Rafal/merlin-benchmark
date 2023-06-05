@@ -1,0 +1,3 @@
+[submodule "irmin"]
+	path = projects/irmin
+	url = git@github.com:mirage/irmin.git
